@@ -1,0 +1,17 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.2.0
+_src_path: https://gitlab.com/svenforge/repo-template.git
+codex_cloud: false
+codex_devcontainer: true
+core_include_gitignore: false
+core_include_readme: true
+core_license: NOASSERTION
+core_owner_email: sven@nichtgerade.de
+core_owner_name: Sven Krummen
+core_owner_user: ''
+core_repository_name: SvenForge
+core_repository_url: https://gitlab.com/svenforge
+features:
+- core
+- codex
+- devcontainer
