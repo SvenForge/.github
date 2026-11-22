@@ -1,0 +1,14 @@
+{
+  "features": {
+    "ghcr.io/devcontainers/features/node:2": {
+      "version": "2.1.2",
+      "resolved": "ghcr.io/devcontainers/features/node@sha256:20ac718cc67e7999a9d3fbb8387f1a3a5d53ecbd41fe7c075ebadb8e9b431b17",
+      "integrity": "sha256:20ac718cc67e7999a9d3fbb8387f1a3a5d53ecbd41fe7c075ebadb8e9b431b17"
+    },
+    "ghcr.io/dirien/devcontainer-feature-codex/codex:0": {
+      "version": "0.0.1",
+      "resolved": "ghcr.io/dirien/devcontainer-feature-codex/codex@sha256:7eddcc74728e02c6fe1e5d12688d98e78bb8675a2c5a5d6a89040568b3cf2546",
+      "integrity": "sha256:7eddcc74728e02c6fe1e5d12688d98e78bb8675a2c5a5d6a89040568b3cf2546"
+    }
+  }
+}
